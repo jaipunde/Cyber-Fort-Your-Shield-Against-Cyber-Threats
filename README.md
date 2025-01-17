@@ -25,14 +25,14 @@ CyberFort is a cutting-edge cybersecurity platform designed to protect individua
 - **HTML**: For structuring web pages.  
 - **CSS**: For styling and layout.  
 - **JavaScript**: For interactivity and dynamic user experiences.  
-- **React.js** or **Vue.js** (optional): For building modern, scalable user interfaces.  
+- **React.js**: For building modern, scalable user interfaces.  
 
 ### Backend Development  
 - **Python**: For implementing core cybersecurity features and tools.  
 - **Django** or **Flask**: To create a secure and scalable backend.  
 
 ### Database  
-- **MySQL** or **PostgreSQL**: For managing and storing data securely.  
+- **MySQL**: For managing and storing data securely.  
 
 ### Cybersecurity Tools and Libraries  
 - **Scapy**: For network packet analysis.  
@@ -41,7 +41,7 @@ CyberFort is a cutting-edge cybersecurity platform designed to protect individua
 
 ### Deployment  
 - **Docker**: For containerizing the application.  
-- **AWS** or **Azure**: For secure and scalable cloud hosting.  
+- **AWS** : For secure and scalable cloud hosting.  
 
 ---
 
